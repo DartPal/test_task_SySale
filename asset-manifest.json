@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DartPal/test_task_SySale/static/css/main.b31b2066.chunk.css",
+    "main.js": "/DartPal/test_task_SySale/static/js/main.edfe06ea.chunk.js",
+    "main.js.map": "/DartPal/test_task_SySale/static/js/main.edfe06ea.chunk.js.map",
+    "runtime-main.js": "/DartPal/test_task_SySale/static/js/runtime-main.e90654b0.js",
+    "runtime-main.js.map": "/DartPal/test_task_SySale/static/js/runtime-main.e90654b0.js.map",
+    "static/css/2.463db0ad.chunk.css": "/DartPal/test_task_SySale/static/css/2.463db0ad.chunk.css",
+    "static/js/2.0a84d073.chunk.js": "/DartPal/test_task_SySale/static/js/2.0a84d073.chunk.js",
+    "static/js/2.0a84d073.chunk.js.map": "/DartPal/test_task_SySale/static/js/2.0a84d073.chunk.js.map",
+    "index.html": "/DartPal/test_task_SySale/index.html",
+    "static/css/2.463db0ad.chunk.css.map": "/DartPal/test_task_SySale/static/css/2.463db0ad.chunk.css.map",
+    "static/css/main.b31b2066.chunk.css.map": "/DartPal/test_task_SySale/static/css/main.b31b2066.chunk.css.map",
+    "static/js/2.0a84d073.chunk.js.LICENSE.txt": "/DartPal/test_task_SySale/static/js/2.0a84d073.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e90654b0.js",
+    "static/css/2.463db0ad.chunk.css",
+    "static/js/2.0a84d073.chunk.js",
+    "static/css/main.b31b2066.chunk.css",
+    "static/js/main.edfe06ea.chunk.js"
+  ]
+}
